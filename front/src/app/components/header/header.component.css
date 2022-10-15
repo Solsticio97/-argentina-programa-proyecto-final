@@ -1,0 +1,15 @@
+#logoap{
+    margin-left: 0.8px;
+    width: 150px;
+}
+#redes{
+    margin-right: 0.8px;
+    width: 60px;
+}
+
+.divGen{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue; 
+    padding: 0.5rem;
+}
